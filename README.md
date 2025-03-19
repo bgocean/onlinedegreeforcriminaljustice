@@ -4,4 +4,4 @@
 - CSS,
 - JS
 
-[Смотреть демо](https://bgocean.github.io/)
+[Смотреть демо](https://bgocean.github.io/onlinedegreeforcriminaljustice/)
